@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 16 problems · 1 labs · 11 math
+**29** solved · 16 problems · 1 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-03 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-03 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-11-01 | [solution](math/0009-matrix-basics) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-11-04 | [solution](math/0030-ml-workflow-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-01 | [solution](math/0007-vector-operations) |
 | [Bayesian Linear Regression: Posterior and Posterior Predictive](https://www.deep-ml.com/math-problems/454) | medium | 2026-11-04 | [solution](math/0454-bayesian-linear-regression-posterior-and-posterior-predictive) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-01 | [solution](math/0012-inverse-and-rank) |
