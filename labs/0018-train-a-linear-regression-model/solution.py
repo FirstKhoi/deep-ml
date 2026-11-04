@@ -17,14 +17,22 @@ def train(X, y, W, b):
     # TODO: implement your training strategy here
     # You can use ANY approach: gradient descent, normal equation,
     # momentum, adaptive learning rates, mini-batching, etc.
-    X = np.array(X, dtype=float)
-    y = np.array(y, dtype=float)
-    W = np.array(W, dtype=float)
+    m = X.shape[0]
+    W = W.copy().astype(float)
     b = float(b)
-
-    W, _, _, _ = np.linalg.lstsq(X, y, rcond=None)
-
-    b = float(np.mean(y - X @ W))
     
-    return W, b
-
+    epochs = 500
+    lr = 0.05
+    for _ in range(epochs):
+        y_pred = X @ W + b
+        error = y_pred - y
+        
+        # Gradient
+        grad_W = (1.0 / m) * (X.T @ error)
+        grad_b = (1.0 / m) * np.sum(error)
+        
+        # Update weights
+        W -= lr * grad_W
+        b -= lr * grad_b
+        
+    return W, float(b)
