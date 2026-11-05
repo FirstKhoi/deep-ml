@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 19 problems · 1 labs · 12 math
+**33** solved · 20 problems · 1 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bayesian Linear Regression: Sequential Posterior and Predictive Bands](https://www.deep-ml.com/problems/1817) | medium | 2026-11-04 | [solution](problems/1817-bayesian-linear-regression-sequential-posterior-and-predictive-bands) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-02 | [solution](problems/0334-cholesky-decomposition) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-01 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-11-05 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-04 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-02 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-01 | [solution](problems/0009-matrix-times-matrix) |
