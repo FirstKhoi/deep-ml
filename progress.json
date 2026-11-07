@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:27:36.253Z",
+  "generated_at": "2026-11-07T05:29:03.195Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -547,6 +547,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-07T05:27:35.227Z",
       "last_pushed_at": "2026-11-07T05:27:35.227Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-11-07T05:29:01.465Z",
+      "last_pushed_at": "2026-11-07T05:29:01.465Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
