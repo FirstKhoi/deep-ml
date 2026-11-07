@@ -21,7 +21,7 @@ def train(X_train, y_train, X_val, y_val):
     # 1. Initialize model
     model = LogisticRegression(
         C=1.0,
-        max_iter=1000,
+        max_iter=10000,
         random_state=42
     )
 
