@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:14:01.933Z",
+  "generated_at": "2026-11-07T05:07:13.351Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -525,6 +525,17 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-11-07T01:14:01.011Z",
       "last_pushed_at": "2026-11-07T01:14:01.011Z"
+    },
+    "math:40": {
+      "kind": "math",
+      "id": "40",
+      "title": "Logistic Regression as Maximum Likelihood",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/40",
+      "path": "math/0040-logistic-regression-as-maximum-likelihood",
+      "first_solved_at": "2026-11-07T05:07:11.561Z",
+      "last_pushed_at": "2026-11-07T05:07:11.561Z"
     }
   }
 }
