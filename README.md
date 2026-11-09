@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 32 problems · 3 labs · 19 math
+**55** solved · 33 problems · 3 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-01 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-11-05 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-04 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-09 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-09 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-02 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-01 | [solution](problems/0009-matrix-times-matrix) |
