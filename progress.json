@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T07:27:53.427Z",
+  "generated_at": "2026-11-09T07:28:10.653Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -687,7 +687,7 @@
       "url": "https://www.deep-ml.com/problems/804",
       "path": "problems/0804-bias-variance-decomposition-from-bootstrap",
       "first_solved_at": "2026-11-09T07:27:52.043Z",
-      "last_pushed_at": "2026-11-09T07:27:52.043Z",
+      "last_pushed_at": "2026-11-09T07:28:09.966Z",
       "language": "python",
       "lines": 28
     }
